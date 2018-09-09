@@ -1,0 +1,14 @@
+{
+"name": "Shunya Academy",
+"license": {
+    "name": "Apache 2.0",
+    "link": "http://www.apache.org/licenses/LICENSE-2.0"
+},
+"credits": [
+{
+    "fullname": "MD Faiyaz Ansari",
+    "contribution": "Main developer",
+    "company": "Administrator"
+}
+]
+}
