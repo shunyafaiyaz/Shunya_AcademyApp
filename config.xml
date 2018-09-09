@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "zero.shunya.scademy"
+        id        = "com.shunya.sacademy"
         versionCode = "1"
         version   = "1.0">
-    <name>mootes14</name>
+    <name>Shunya Academy</name>
 
     <description>
         Shunya Academy official app
     </description>
 
     <author href="http://moodle.com" email="shunyafaiyaz@gmail.com">
-        Faiyaz Ansari
+        MD Faiyaz Ansari
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
